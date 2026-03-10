@@ -1,0 +1,2 @@
+# TyranoBuilderVisualNovelStudio-RUS
+Русификация для TyranoBuilderVisualNovelStudio. Работает с версией Steam. Для установки создайте папку lang в директории программы и поместите файл en.json. В версии Steam папка обычно уже есть — просто замените файл en.json. После замены английский язык будет заменён русским. Путь: Диск:\Steam\SteamApps\common\TyranoBuilder\lang\en.json
