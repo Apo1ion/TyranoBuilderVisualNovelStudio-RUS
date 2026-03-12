@@ -1,10 +1,10 @@
-# TyranoBuilderVisualNovelStudio-RUS
+# Русификация для TyranoBuilder Visual Novel Studio.
 
 ![Image alt](https://github.com/Apo1ion/TyranoBuilderVisualNovelStudio-RUS/blob/main/Logo-TyranoBuilderVisualNovelStudio-RUS.png)
 
 ____
 
-# Русификация для TyranoBuilder Visual Novel Studio.
+# Описание
 
 Данный русификатор предназначен для актуальной рабочей версии приложения TyranoBuilder. На данный момент перевод подготовлен для версии программы V3.05.
 
